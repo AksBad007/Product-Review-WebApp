@@ -1,2 +1,2 @@
 # Product-Review-WebApp
-A WebApp for reviewing products based on Flask
+A WebApp for reviewing products. Based on Flask
